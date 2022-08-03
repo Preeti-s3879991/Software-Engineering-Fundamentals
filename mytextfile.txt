@@ -1,1 +1,16 @@
 Print('This is Preeti here')
+
+Moving your file to the staging area:
+	git add mytextfile.txt
+
+Saving the changes from the staging area to the local repository:
+	git commit -m “adding my first file”
+
+Create a new repository on GitHub by going to the + sign on the top right:
+	Put a name on your repository, and create! This creates the remote repository for your
+	project.
+
+You will see that the page now has different titles. 
+Find the one that says: “...or push an existing repository from the command line”. Copy these commands, and paste on GitBash.
+
+Refresh the repository website. Your code is on the web!
